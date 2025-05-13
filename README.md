@@ -26,3 +26,8 @@ occupancy_calculation:
 This excel file contains a breakdown of our occupancy calculations
 
 # visuals
+PowerBI_v1_v2_v5:
+This file contains visuals 1, 2, and 5 corresponding to our final report
+
+Tableau_v4+occu_analysis:
+This file contains visual 4 corresponding to our final report as well as additional occupancy visualizations we created
